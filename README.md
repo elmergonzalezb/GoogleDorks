@@ -4,7 +4,7 @@ Store the google dorks from Exploit DB's Google Hacking Database in a local SQLi
 
 ## Usage
 
-	$ ghdb [info|list|update]
+	$ php ghdb.php [info|list|update]
 
 ## Contact
 
